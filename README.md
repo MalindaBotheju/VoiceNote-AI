@@ -15,7 +15,7 @@
 * **Streamlit** (Frontend)
 
 ## 📸 Demo
-![App Demo](demo.png) 
+![VoiceNote AI Interface](screenshot.png) 
 *(Note: Make sure your uploaded image is named demo.png or change this line!)*
 
 ## 📦 How to Run
