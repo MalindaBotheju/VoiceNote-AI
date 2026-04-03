@@ -21,7 +21,7 @@
 ## 📦 How to Run
 1.  Clone the repo:
     ```bash
-    git clone [https://github.com/MalindaBotheju/VoiceNote-AI.git](https://github.com/MalindaBotheju/VoiceNote-AI.git)
+    git clone https://github.com/MalindaBotheju/VoiceNote-AI.git
     ```
 2.  Install dependencies:
     ```bash
