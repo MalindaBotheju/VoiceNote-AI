@@ -91,7 +91,7 @@ Open your terminal and pull the Llama 3 model into your local Ollama instance:
 ```bash
 ollama run llama3
 ```
-(Once it downloads and starts, you can type ```bash/bye``` to exit. Ollama will keep running in the background).
+(Once it downloads and starts, you can type ```/bye``` to exit. Ollama will keep running in the background).
 
 ### Step 6: Build the Docker Image
 Open your terminal inside the VoiceNote-AI project folder and build the container image.
