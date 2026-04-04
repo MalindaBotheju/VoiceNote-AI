@@ -112,6 +112,7 @@ docker run -p 8501:8501 -e OLLAMA_BASE_URL=http://host.docker.internal:11434 voi
 * Open your web browser.
 * Navigate to: http://localhost:8501
 * Upload an audio or video file, click "Transcribe & Summarize", and enjoy!
+
 (Note on first run: Whisper will automatically download its base model (~139MB) the first time you transcribe a file. Subsequent runs will be much faster.)
 
 ---
