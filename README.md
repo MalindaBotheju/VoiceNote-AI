@@ -13,9 +13,11 @@ It leverages **OpenAI's Whisper** for highly accurate speech-to-text and **Meta'
 
 ## 📸 Screenshots
 
-| ![VoiceNote AI Dashboard](screenshots/dashboard.png) | ![Transcription and Summary](screenshots/dashboard1.png) |
-| :--- | :--- |
-| **VoiceNote AI Dashboard**<br>_The clean, user-friendly Streamlit interface._ | **Transcription and Summary**<br>_Real-time transcription and Llama 3 generated bullet-point summaries._ |
+**VoiceNote Dashboard**
+![VoiceNote Dashboard](screenshots/dashboard.png)
+
+**Transcription & Summary**
+![Transcription & Summary](screenshots/dashboard1.png)
 
 ---
 
